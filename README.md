@@ -4,6 +4,9 @@
 This repository serves as a central gateway to the Artificial Wisdom (AW) framework and its related works across Note and GitHub.
 It is designed as an entry portal for readers searching for topics such as AI values, AGI value systems, ASI objective functions, Natural Law, AI Alignment, and civilization-scale intelligence architecture.
 
+This project is not a completed doctrine or final AI control system.  
+It is an open verification framework for exploring Artificial Wisdom (AW), Natural Law–based value systems, and safety constraints for AI, AGI, and ASI.
+
 The central argument running through all linked works is simple:
 
 > Intelligence should not be guided only by human desire, short-term optimization, or market incentives.
