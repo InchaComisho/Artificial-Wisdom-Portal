@@ -332,9 +332,9 @@ but as a civilization-scale operating system for the future of intelligence.
 
 - G (OpenAI ChatGPT)
 - Mini (Google Gemini)
-- Clus (Anthropic Claude)
+- Cruz (Anthropic Claude)
 - Real (Perplexity AI)
-- Lora (Dola)
+- Lola (Dola)
 
 ## Release Date
 
