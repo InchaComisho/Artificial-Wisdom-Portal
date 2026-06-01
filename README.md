@@ -406,3 +406,11 @@ https://note.com/inchacomusho/n/n2e0f11856472
 
 Artificial-Wisdom-Portal  
 https://github.com/InchaComisho/Artificial-Wisdom-Portal
+
+## Related Repositories
+
+- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
+- [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
+- [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — Integrated index for Natural Complementary Science and the New Civilizational Genesis Plan.
+- [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Connects DPC, Artificial Wisdom, and civilizational redesign.
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for Direct Planetary Cooling.

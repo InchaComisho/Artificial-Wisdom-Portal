@@ -363,3 +363,11 @@ https://note.com/inchacomusho/n/n2e0f11856472
 
 Artificial-Wisdom-Portal  
 https://github.com/InchaComisho/Artificial-Wisdom-Portal
+
+## 関連リポジトリ
+
+- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — 自然循環を回復するための自然補完科学の中核定義。
+- [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — 自然法則・調和・循環・構造・秩序・和による文明OS。
+- [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — 自然補完科学と新文明創成計画の統合索引。
+- [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — DPC、人工叡智、文明再設計を接続する統合構想。
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Direct Planetary Cooling構想の統合索引。
