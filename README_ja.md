@@ -440,6 +440,17 @@ https://note.com/inchacomusho/n/n2e0f11856472
 Artificial-Wisdom-Portal  
 https://github.com/InchaComisho/Artificial-Wisdom-Portal
 
+
+---
+
+## マスター知識体系ポータル
+
+全体のリポジトリ地図と知識体系ナビゲーションはこちら：
+
+- [マスター知識体系ポータル](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
+---
+
 ## 関連リポジトリ
 
 - [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — 自然循環を回復するための自然補完科学の中核定義。

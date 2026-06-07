@@ -483,6 +483,17 @@ https://note.com/inchacomusho/n/n2e0f11856472
 Artificial-Wisdom-Portal  
 https://github.com/InchaComisho/Artificial-Wisdom-Portal
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
+---
+
 ## Related Repositories
 
 - [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
