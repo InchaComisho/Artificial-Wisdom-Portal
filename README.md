@@ -442,6 +442,30 @@ but as a civilization-scale operating system for the future of intelligence.
 
 - May 2026
 
+***
+
+## Related OS Frameworks
+
+### Urban–Civilization OS
+
+- [Japanese introductory article: 都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
+- [Urban–Civilization OS — Japanese README](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
+- [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+
+### Natural–Microbial OS
+
+- [Japanese introductory article: 自然・微生物OSとは何か](https://note.com/inchacomusho/n/n0f08276bd638)
+- [Natural–Microbial OS — Japanese README](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
+- [Natural–Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
+
+### Planetary Heat and Circulation OS
+
+- [Japanese introductory article: 惑星熱・循環OSとは何か](https://note.com/inchacomusho/n/n9992ff391394)
+- [Planetary Heat and Circulation OS — Japanese README](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
+- [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
+
+***
+
 ## License
 
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**
