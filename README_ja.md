@@ -527,6 +527,9 @@ https://github.com/InchaComisho/Artificial-Wisdom-Portal
 
 ## 関連リポジトリ
 
+- [放置杉林を負債から循環資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md) — 放置杉林、山林負債、森林再生、自然循環、人間中心主義を超えた生態系評価に関する関連論考。
+- [NOTE原文：放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
+
 - [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — 自然循環を回復するための自然補完科学の中核定義。
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — 自然法則・調和・循環・構造・秩序・和による文明OS。
 - [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — 自然補完科学と新文明創成計画の統合索引。
