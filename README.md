@@ -528,6 +528,13 @@ Nature-Centric Intelligence
 Artificial Sapience  
 Future of Search Engines  
 Artificial Wisdom Node
+REIMEI-NOP
+Natural-Origin Plasma Generator
+REIMEI-CIVILIZATION
+nature-inspired engineering
+plasma generation
+AI android energy core
+open hypothesis
 
 ## GitHub Topics / Hashtags
 
@@ -575,6 +582,9 @@ For the full repository map and knowledge-system navigation, see:
 - [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — Integrated index for Natural Complementary Science and the New Civilizational Genesis Plan.
 - [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Connects DPC, Artificial Wisdom, and civilizational redesign.
 - [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for Direct Planetary Cooling.
+- [REIMEI-NOP: Natural-Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md) — Related open hypothesis for a nature-inspired plasma generation concept based on lightning pre-discharge processes, mist friction, spiral flow, charge separation, discharge, and possible auxiliary energy recovery; not a proven power generator.
+- [NOTE article: 雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
+- [Original open concept: REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
 - [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md) — Related ecological ethics context for evaluating unmanaged forests, forest liability, regenerative forest assets, and long-term coexistence.
 - [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related ecological ethics context for evaluating human-wildlife conflict, habitat degradation, and human-centered misreadings of natural displacement.

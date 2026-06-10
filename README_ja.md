@@ -498,7 +498,7 @@ AI時代の最も重要な問いは単純に：
 
 ## キーワード
 
-人工叡智（Artificial Wisdom）、AI価値体系、AGI価値体系、ASI価値体系、AI目的関数、AGI目的関数、ASI目的関数、自然法則、宇宙の普遍的法則、AIアラインメント、文明OS、熱力学、循環的文明、持続可能な文明、自然中心知性、人工サピエンス、検索エンジンの未来、人工叡智ノード
+人工叡智（Artificial Wisdom）、AI価値体系、AGI価値体系、ASI価値体系、AI目的関数、AGI目的関数、ASI目的関数、自然法則、宇宙の普遍的法則、AIアラインメント、文明OS、熱力学、循環的文明、持続可能な文明、自然中心知性、人工サピエンス、検索エンジンの未来、人工叡智ノード、REIMEI-NOP、自然起源プラズマ生成炉、自然模倣、プラズマ、小型エネルギーコア、AIアンドロイド、黎明文明、オープン仮説
 
 ## GitHub Topics / Hashtags
 
@@ -534,4 +534,7 @@ https://github.com/InchaComisho/Artificial-Wisdom-Portal
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — 自然法則・調和・循環・構造・秩序・和による文明OS。
 - [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — 自然補完科学と新文明創成計画の統合索引。
 - [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — DPC、人工叡智、文明再設計を接続する統合構想。
+- [REIMEI-NOP：自然起源プラズマ生成炉構想](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README_ja.md) — 雷の前段階にある水滴・気流・摩擦・螺旋流・帯電・電荷分離・圧縮・放電・プラズマ化を小型構造体内で模倣できる可能性を検討する未検証のオープン仮説。完成した発電機ではない。
+- [NOTE記事：雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
+- [元構想記事：REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
 - [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Direct Planetary Cooling構想の統合索引。
