@@ -539,3 +539,9 @@ https://github.com/InchaComisho/Artificial-Wisdom-Portal
 - [NOTE記事：雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
 - [元構想記事：REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
 - [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Direct Planetary Cooling構想の統合索引。
+## 関連：黎明文明
+
+* [黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+  消費型文明から惑星循環文明への移行を整理する上位文明ポータル。自然法則、人工叡智、自然補完科学、都市・文明OS、自然・微生物OS、惑星熱・循環OS、持続的未来文明マスタープラン、自然模倣型エネルギー・アーキテクチャなどを統合する文明モデル。
+
+* [English version: REIMEI Civilization: Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
