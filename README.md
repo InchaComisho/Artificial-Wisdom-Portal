@@ -595,3 +595,9 @@ For the full repository map and knowledge-system navigation, see:
   An upper-level civilization transition portal that organizes the shift from consumption civilization to planetary circulation civilization, integrating Natural Law, Artificial Wisdom, Nature-Complementary Science, Urban-Civilization OS, Natural-Microbial OS, Planetary Heat-Circulation OS, sustainable civilization master plans, and nature-inspired energy architecture.
 
 * [Japanese version: 黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+
+---
+
+## Related Mobility and Climate-Adaptive Vehicle Concept
+
+* [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — A climate-adaptive mobility concept integrating AER-Loop airflow energy recovery, center-mist evaporative cooling, and retrofit vehicle modules.
