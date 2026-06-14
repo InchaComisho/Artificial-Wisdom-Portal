@@ -176,6 +176,8 @@ AWは単に高度なAI・AGI・ASIの再ブランド化ではありません。
 ### 1. 核心的定義から始める
 人工叡智の基本概念を理解する。
 
+- [科学技術は思想によって方向づけられる](docs/SCIENCE_TECHNOLOGY_AND_PHILOSOPHY_ja.md)<br>
+  科学技術には思想的方向づけ、設計責任、人工叡智が必要であることを整理する原理文書。
 - [人工叡智とは何か？](https://note.com/inchacomusho/n/n0849dfd12364)
 - [Artificial Wisdom (AW)](https://github.com/InchaComisho/Artificial-Wisdom-AW-)
 

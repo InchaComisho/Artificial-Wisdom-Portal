@@ -268,6 +268,8 @@ See how Artificial Wisdom may apply to civilization, search, and future infrastr
 
 ### Core Artificial Wisdom Concepts
 
+- [Science and Technology Are Directed by Philosophy](docs/SCIENCE_TECHNOLOGY_AND_PHILOSOPHY.md)<br>
+  A principle document explaining why science and technology require philosophical orientation, design responsibility, and Artificial Wisdom.
 - [人工叡智（Artificial Wisdom）―AGI・ASI時代の「暴走しない知性」のつくり方](https://note.com/inchacomusho/n/n0873bb87f7d0)
 - [Artificial Wisdom (AW) A Natural-Law-Based](https://github.com/InchaComisho/Artificial-Wisdom-AW-A-Natural-Law-Based)
 - [人工叡智とは何か：AGI・ASI時代の新しいAI価値基準と「六つの理」](https://note.com/inchacomusho/n/n8b5fca6478b4)
