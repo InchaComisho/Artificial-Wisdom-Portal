@@ -224,6 +224,13 @@ See how Artificial Wisdom may apply to civilization, search, and future infrastr
 
 ***
 
+## Cooling Credit Multilingual Portal
+
+- [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+  A multilingual public portal for physically measurable heat-load reduction through Cooling Credits, linking to the framework, MRV, Score Estimator, implementation portfolio, humus circulation, forest regeneration, and direct cooling technologies.
+
+***
+
 ## Related Links
 
 ### Related Artificial Wisdom Resources

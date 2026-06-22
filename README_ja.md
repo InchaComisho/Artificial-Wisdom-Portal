@@ -216,6 +216,13 @@ AWをスコアリング・評価アーキテクチャとして理解する。
 
 ---
 
+## クーリングクレジット多言語ポータル
+
+- [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+  物理的に測定可能な熱負荷低減を評価するクーリングクレジットの多言語公開ポータル。制度設計、MRV、Score Estimator、実装ポートフォリオ、腐葉土循環、森林再生、直接冷却技術へ誘導する入口。
+
+---
+
 ## 関連リンク
 
 ### 関連する人工叡智リソース
