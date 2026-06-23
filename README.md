@@ -1,4 +1,6 @@
 # Artificial Wisdom Portal
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
+
 ## A Central Gateway to AI, AGI, ASI, Natural Law, and Sustainable Civilization
 
 This repository serves as a central gateway to the Artificial Wisdom (AW) framework and its related works across Note and GitHub.
@@ -437,15 +439,11 @@ but as a civilization-scale operating system for the future of intelligence.
 
 ## Author
 
-**Master (inchacomisho / inchacomusho)**
+**Author:** Master / inchacomusho / InchaComisho
 
 ## AI Collaborators
 
-- G (OpenAI ChatGPT)
-- Mini (Google Gemini)
-- Cruz (Anthropic Claude)
-- Real (Perplexity AI)
-- Lola (Dola)
+**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 
 ## Release Date
 
@@ -565,7 +563,7 @@ open hypothesis
 #NaturalComplementaryScience
 
 
-■関連リンク
+## Related Links
 
 人工叡智ポータル―AI・AGI・ASI時代の価値基準を、自然法則（宇宙の普遍的法則）から再定義する  
 https://note.com/inchacomusho/n/n2e0f11856472
@@ -586,7 +584,8 @@ For the full repository map and knowledge-system navigation, see:
 
 ## Related Repositories
 
-- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
+- [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
+  A life-protection mobility framework applying Artificial Wisdom principles to vehicle design, speed governance, driver monitoring, pedestrian protection, and structural accident-risk reduction.- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
 - [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — Integrated index for Natural Complementary Science and the New Civilizational Genesis Plan.
 - [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Connects DPC, Artificial Wisdom, and civilizational redesign.
@@ -610,3 +609,11 @@ For the full repository map and knowledge-system navigation, see:
 ## Related Mobility and Climate-Adaptive Vehicle Concept
 
 * [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — A climate-adaptive mobility concept integrating AER-Loop airflow energy recovery, center-mist evaporative cooling, and retrofit vehicle modules.
+
+
+---
+
+## Related Institutional Proposal: Carbon Credit to Cooling Credit
+
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
+  A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.

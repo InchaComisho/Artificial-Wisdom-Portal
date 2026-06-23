@@ -1,4 +1,6 @@
 # 人工叡智ポータル
+**言語 / Language:** 日本語 | [English Version](README.md)
+
 ## AI・AGI・ASI、自然法則、持続可能な文明への中央ゲートウェイ
 
 > **本文書は英語原文（README.md）の日本語訳です。**  
@@ -423,6 +425,15 @@ AI時代の最も重要な問いは単純に：
 
 ---
 
+## 関連プロジェクトリンク
+
+- [AGIの未来 / The Future of AGI](https://github.com/InchaComisho/The-Future-of-AGI)
+- [ASIの未来 / The Future of ASI](https://github.com/InchaComisho/The-Future-of-ASI)
+- [AI価値体系と目的関数](https://github.com/InchaComisho/AI-Value-Systems-and-Objective-Functions)
+- [AGI価値体系と目的関数](https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions)
+- [ASI価値体系と目的関数](https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions)
+- [検索エンジンの未来](https://github.com/InchaComisho/The-Future-of-Search-Engines)
+
 ## 著者
 
 **Master（inchacomisho / inchacomusho）**
@@ -515,7 +526,7 @@ AI時代の最も重要な問いは単純に：
 
 ---
 
-■関連リンク
+## 関連リンク
 
 人工叡智ポータル―AI・AGI・ASI時代の価値基準を、自然法則（宇宙の普遍的法則）から再定義する  
 https://note.com/inchacomusho/n/n2e0f11856472
@@ -536,7 +547,8 @@ https://github.com/InchaComisho/Artificial-Wisdom-Portal
 
 ## 関連リポジトリ
 
-- [放置杉林を負債から循環資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md) — 放置杉林、山林負債、森林再生、自然循環、人間中心主義を超えた生態系評価に関する関連論考。
+- [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
+  人工叡智の原則を、自動車設計、速度統治、ドライバーモニタリング、歩行者保護、交通事故リスクの構造的低減へ応用する生命保護型モビリティ構想。- [放置杉林を負債から循環資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md) — 放置杉林、山林負債、森林再生、自然循環、人間中心主義を超えた生態系評価に関する関連論考。
 - [NOTE原文：放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
 
 - [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — 自然循環を回復するための自然補完科学の中核定義。
@@ -560,3 +572,11 @@ https://github.com/InchaComisho/Artificial-Wisdom-Portal
 ## 関連モビリティ・環境適応車両構想
 
 * [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — AER-Loop走行風エネルギー回収、センターミスト冷却、後付け車両モジュールを統合する環境適応型モビリティ構想。
+
+
+---
+
+## 関連制度提案：カーボンクレジットからクーリングクレジットへ
+
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+  カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
